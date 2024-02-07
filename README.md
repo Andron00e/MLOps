@@ -1,2 +1,2 @@
 # MLOps
-MIPT course on MLOps: fall 2023
+MIPT course in MLOps: fall 2023
